@@ -1,0 +1,20 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1:-
+
+    - Every resource(HTML,CSS.JavaScript,etc) a webpage needs requries a separate request.
+    - Multiple request and responses can lead to latency issues called known as head of line blocking problem.
+    - HTTP1.1 is limited as only one request and one response pair can be transit at a time.
+    - HTTP1.1 has each request and response comess with a significant amount of data.
+    - When HTTP1.1 single webpage requries a Multiple resources.
+    - HTTP1.1 uses plain text for its protocol.
+
+HTTP2:-
+
+    - HTTP2 allows multiple request and responses to be sent over a single connection.
+    - HTTP2 reduces latency and making websites faster and more responsive.
+    - HTTP2 makes data transfer more efficient and minimizes overhead.
+    - HTTP2 employes a binary protocol.
+    - It is more efficientfor parsing and processing by both servers and clients.
+    - HTTP2 resources can be assigned higher priority for fast delivery.
+

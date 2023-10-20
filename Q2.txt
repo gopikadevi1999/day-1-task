@@ -1,0 +1,27 @@
+Write a blog about objects and its internal representation in Javascript
+
+   - JavaScript obijects are one of the core data types and used to store collections of  keeyvalue pairs.
+   - There are 6 types of internal representation of obijectsin JavaScript.
+       
+       > Properties and methodes:-
+         - properties store data and methodesare functions that perform actions related to the object.
+       
+       > Key value pairs:-
+         - The key is string and the value can be any vaild JavaScript data type,including other objects.
+       
+       > Prototypes:-
+         - JavaScript obijects can be linked to a Prototype object,which allows for inheritances.
+         - JavaScript engine looks up the Prototype chain to find it.
+       
+       > Dynamic nature:-
+         - Highly flexible and dyanamic.
+         - you can add, modifiy, or delete properties and methodes at any time.
+         - It is a versatile and adaptable to various scenarios.
+       
+       > Object literal notation:-
+         - Object can be defined using object literal notation.
+         - To create with their properties and values in convenient way.
+       
+       > Object constructions:-
+         - To create obijectsusing constructor functions or classes in JavaScript.
+         - Especially when you need to create multiple instance with the same structure and methodes.
